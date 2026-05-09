@@ -1,0 +1,237 @@
+S.No,City,State,No_of_Obs,Annual_PM10,Days_Exceeding_Indian,Days_Exceeding_WHO,Percent_Exceeding_Indian,Percent_Exceeding_WHO,NCAP_Status
+1,Byrnihat,"Assam/Megha
+laya",347,301,324,344,93,99,NCAP
+2,Begusarai,Bihar,346,265,307,335,89,97,Non-NCAP
+3,Greater Noida,Uttar Pradesh,365,228,325,359,89,98,Non-NCAP
+4,Sri Ganganagar,Rajasthan,300,215,268,297,89,99,Non-NCAP
+5,Chhapra,Bihar,361,212,262,313,73,87,Non-NCAP
+6,Patna,Bihar,365,212,287,357,79,98,NCAP
+7,Hanumangarh,Rajasthan,300,212,245,294,82,98,Non-NCAP
+8,Delhi,NCT of Delhi,365,206,299,360,82,99,NCAP
+9,Bhiwadi,Rajasthan,365,203,310,361,85,99,Non-NCAP
+10,Faridabad,Haryana,365,196,309,365,85,100,NCAP
+11,Katihar,Bihar,365,194,238,355,65,97,Non-NCAP
+12,Munger,Bihar,358,193,294,338,82,94,Non-NCAP
+13,Noida,Uttar Pradesh,365,193,295,355,81,97,NCAP
+14,Bikaner,Rajasthan,332,191,286,328,86,99,Non-NCAP
+15,Bettiah,Bihar,361,189,288,357,80,99,Non-NCAP
+16,Samastipur,Bihar,361,186,258,345,71,96,Non-NCAP
+17,Dharuhera,Haryana,363,184,289,356,80,98,Non-NCAP
+18,Saharsa,Bihar,357,184,251,320,70,90,Non-NCAP
+19,Ghaziabad,Uttar Pradesh,365,184,294,353,81,97,NCAP
+20,Muzaﬀarpur,Bihar,365,180,268,338,73,93,NCAP
+21,Sonipat,Haryana,347,179,283,341,82,98,Non-NCAP
+22,Siwan,Bihar,363,177,268,345,74,95,Non-NCAP
+23,Gurgaon,Haryana,365,176,292,363,80,99,Non-NCAP
+24,Hajipur,Bihar,365,174,259,327,71,90,Non-NCAP
+25,Tonk,Rajasthan,312,172,237,301,76,96,Non-NCAP
+26,Arrah,Bihar,359,168,287,349,80,97,Non-NCAP
+27,Meerut,Uttar Pradesh,365,168,269,332,74,91,NCAP
+28,Araria,Bihar,364,167,227,302,62,83,Non-NCAP
+29,Bhagalpur,Bihar,365,167,262,342,72,94,Non-NCAP
+30,Bileipada,Odisha,365,165,294,360,81,99,Non-NCAP
+31,Dausa,Rajasthan,307,164,248,303,81,99,Non-NCAP
+32,Muzaﬀarnagar,Uttar Pradesh,338,163,269,327,80,97,Non-NCAP
+33,Baghpat,Uttar Pradesh,354,158,259,329,73,93,Non-NCAP
+34,Bharatpur,Rajasthan,332,156,228,308,69,93,Non-NCAP
+35,Nalbari,Assam,350,155,228,305,65,87,NCAP
+36,Purnia,Bihar,364,153,231,345,63,95,Non-NCAP
+37,Rupnagar,Punjab,346,152,274,338,79,98,Non-NCAP
+38,Bahadurgarh,Haryana,364,149,247,347,68,95,Non-NCAP
+39,Kishanganj,Bihar,362,148,218,297,60,82,Non-NCAP
+40,Singrauli,"Madhya
+Pradesh",354,144,207,299,58,84,Non-NCAP
+41,Motihari,Bihar,357,142,218,307,61,86,Non-NCAP
+42,Rajgir,Bihar,364,141,234,323,64,89,Non-NCAP
+43,Fatehabad,Haryana,311,139,193,303,62,97,Non-NCAP
+44,Gwalior,"Madhya
+Pradesh",362,139,224,335,62,93,NCAP
+45,Aurangabad,Bihar,365,138,222,362,61,99,Non-NCAP
+46,Manesar,Haryana,365,138,234,359,64,98,Non-NCAP
+47,Ballabgarh,Haryana,360,138,198,328,55,91,Non-NCAP
+48,Bulandshahr,Uttar Pradesh,365,137,244,333,67,91,Non-NCAP
+49,Sikar,Rajasthan,301,136,182,275,60,91,Non-NCAP
+50,Visakhapatnam,"Andhra
+Pradesh",359,136,251,451,40,72,NCAP
+51,Hisar,Haryana,319,136,199,312,62,98,Non-NCAP
+52,Charkhi Dadri,Haryana,365,135,235,354,64,97,Non-NCAP
+53,Baddi,"Himachal
+Pradesh",356,135,236,352,66,99,NCAP
+54,Panipat,Haryana,361,133,232,351,64,97,Non-NCAP
+55,Navi Mumbai,Maharashtra,365,133,211,315,58,86,NCAP
+56,"Mandi
+Gobindgarh",Punjab,363,132,238,341,66,94,NCAP
+57,Ludhiana,Punjab,365,132,229,360,63,99,NCAP
+58,Jodhpur,Rajasthan,365,132,254,360,70,99,NCAP
+59,Katni,"Madhya
+Pradesh",331,132,206,299,62,90,Non-NCAP
+60,Kalyan,Maharashtra,331,130,200,303,60,92,Non-NCAP
+61,Bathinda,Punjab,357,129,183,320,51,90,Non-NCAP
+62,Yamunanagar,Haryana,354,129,235,342,66,97,Non-NCAP
+63,Asanol,West Bengal,358,129,219,306,61,85,NCAP
+64,Jaipur,Rajasthan,365,128,249,352,68,96,NCAP
+65,Rourkela,Odisha,365,128,229,340,63,93,NCAP
+66,Nayagarh,Odisha,361,128,223,298,62,83,Non-NCAP
+67,Narnaul,Haryana,358,128,212,330,59,92,Non-NCAP
+68,Thane,Maharashtra,319,127,194,275,61,86,NCAP
+69,Jhunjhunu,Rajasthan,300,127,182,285,61,95,Non-NCAP
+70,Guwahati,Assam,365,126,211,334,58,92,NCAP
+71,Kaithal,Haryana,365,126,206,338,56,93,Non-NCAP
+72,Bhiwani,Haryana,365,125,224,335,61,92,Non-NCAP
+73,Ujjain,"Madhya
+Pradesh",319,124,207,302,65,95,NCAP
+74,Vrindavan,Uttar Pradesh,355,123,213,290,60,82,Non-NCAP
+75,Yamuna Nagar,Haryana,294,122,177,282,60,96,Non-NCAP
+76,Surat,Gujarat,336,122,198,267,59,79,NCAP
+77,Mandideep,"Madhya
+Pradesh",356,121,203,323,57,91,Non-NCAP
+78,Lucknow,Uttar Pradesh,365,121,223,326,61,89,NCAP
+79,Bihar Sharif,Bihar,362,121,212,268,59,74,Non-NCAP
+80,Chandigarh,Chandigarh,365,120,222,349,61,96,NCAP
+81,Gaya,Bihar,365,119,198,306,54,84,NCAP
+82,Gummidipoondi,Tamil Nadu,326,119,227,321,70,98,Non-NCAP
+83,Kota,Rajasthan,365,119,205,354,56,97,NCAP
+84,Vatva,Gujarat,359,119,216,355,60,99,Non-NCAP
+85,Durgapur,West Bengal,356,118,203,315,57,88,NCAP
+86,Agartala,Tripura,353,117,195,335,55,95,Non-NCAP
+87,Churu,Rajasthan,290,116,141,256,49,88,Non-NCAP
+88,Chittorgarh,Rajasthan,304,115,147,287,48,94,Non-NCAP
+89,Nagaon,Assam,315,115,154,267,49,85,NCAP
+90,Pithampur,"Madhya
+Pradesh",357,114,206,350,58,98,Non-NCAP
+91,Jabalpur,"Madhya
+Pradesh",365,113,208,328,57,90,NCAP
+92,Suakati,Odisha,359,112,202,328,56,91,Non-NCAP
+93,Banswara,Rajasthan,304,111,173,293,57,96,Non-NCAP
+94,Satna,"Madhya
+Pradesh",343,111,148,314,43,92,Non-NCAP
+95,Kurukshetra,Haryana,361,110,181,320,50,89,Non-NCAP
+96,Jalandhar,Punjab,365,110,187,351,51,96,NCAP
+97,Bhopal,"Madhya
+Pradesh",365,110,195,348,53,95,NCAP
+98,Ahmedabad,Gujarat,365,109,216,360,59,99,NCAP
+99,Pali,Rajasthan,362,109,178,362,49,100,Non-NCAP
+100,Howrah,West Bengal,365,109,174,303,48,83,NCAP
+101,Mumbai,Maharashtra,365,109,180,329,49,90,NCAP
+102,Indore,"Madhya
+Pradesh",362,108,187,345,52,95,NCAP
+103,Vapi,Gujarat,365,108,172,302,47,83,Non-NCAP
+104,Sawai Madhopur,Rajasthan,298,108,140,276,47,93,Non-NCAP
+105,Udaipur,Rajasthan,365,108,187,354,51,97,NCAP
+106,Kanpur,Uttar Pradesh,365,107,189,338,52,93,NCAP
+107,Talcher,Odisha,346,107,139,251,40,73,NCAP
+108,Solapur,Maharashtra,365,107,234,347,64,95,NCAP
+109,Sirsa,Haryana,356,106,170,322,48,90,Non-NCAP
+110,Dewas,"Madhya
+Pradesh",338,105,193,293,57,87,NCAP
+111,Tumakuru,Karnataka,314,104,157,238,50,76,Non-NCAP
+112,Muradabad,Uttar Pradesh,365,103,192,349,53,96,Non-NCAP
+113,Jind,Haryana,365,103,150,321,41,88,Non-NCAP
+114,Amritsar,Punjab,359,103,164,345,46,96,NCAP
+115,Hapur,Uttar Pradesh,344,103,110,269,32,78,Non-NCAP
+116,Barmer,Rajasthan,306,103,151,286,49,93,Non-NCAP
+117,Jhansi,Uttar Pradesh,365,102,157,336,43,92,NCAP
+118,Baripada,Odisha,361,101,176,315,49,87,Non-NCAP
+119,Ajmer,Rajasthan,365,101,152,365,42,100,Non-NCAP
+120,Ratlam,"Madhya
+Pradesh",347,100,160,307,46,88,Non-NCAP
+121,Kurukshetra,Haryana,301,100,125,260,42,86,Non-NCAP
+122,Keonjhar,Odisha,365,100,184,321,50,88,Non-NCAP
+123,Sasaram,Bihar,347,100,152,278,44,80,Non-NCAP
+124,Nagpur,Maharashtra,365,99,173,310,47,85,NCAP
+125,Pratapgarh,Rajasthan,299,99,156,274,52,92,Non-NCAP
+126,Mandikhera,Haryana,359,99,149,291,42,81,Non-NCAP
+127,Aurangabad,Maharashtra,365,99,392,621,54,85,NCAP
+128,Rairangpur,Odisha,312,98,159,275,51,88,Non-NCAP
+129,Jhalawar,Rajasthan,297,97,134,260,45,88,Non-NCAP
+130,Moradabad,Uttar Pradesh,305,96,138,289,45,95,NCAP
+131,Khurja,Uttar Pradesh,365,96,125,353,34,97,NCAP
+132,Patiala,Punjab,365,95,156,306,43,84,NCAP
+133,Khanna,Punjab,365,94,132,352,36,96,NCAP
+134,Gorakhpur,Uttar Pradesh,365,94,170,324,47,89,NCAP
+135,Kunjemura,Chhattisgarh,343,94,153,281,45,82,Non-NCAP
+136,Chandrapur,Maharashtra,365,94,133,340,36,93,NCAP
+137,Prayagraj,Uttar Pradesh,365,94,137,332,38,91,NCAP
+138,Kolkata,West Bengal,365,93,151,277,41,76,NCAP
+139,Pune,Maharashtra,347,93,150,310,43,89,NCAP
+140,Karnal,Haryana,365,92,134,317,37,87,Non-NCAP
+141,Rajsamand,Rajasthan,293,92,106,270,36,92,Non-NCAP
+142,Manguraha,Bihar,355,91,133,260,37,73,Non-NCAP
+143,Ankleshwar,Gujarat,343,90,136,293,40,85,Non-NCAP
+144,Dharwad,Karnataka,345,89,115,302,33,88,NCAP
+145,Sirohi,Rajasthan,282,88,91,243,32,86,Non-NCAP
+146,GandhiNagar,Gujarat,365,87,121,345,33,95,Non-NCAP
+147,Raichur,Karnataka,331,86,138,253,42,76,Non-NCAP
+148,Haldia,West Bengal,359,86,136,247,38,69,NCAP
+149,Hubballi,Karnataka,365,86,109,312,30,85,NCAP
+150,Tumidih,Chhattisgarh,308,85,104,229,34,74,Non-NCAP
+151,Bareilly,Uttar Pradesh,365,85,118,294,32,81,NCAP
+152,Alwar,Rajasthan,365,85,83,356,23,98,NCAP
+153,Hyderabad,Telangana,365,85,79,365,22,100,NCAP
+154,Tensa,Odisha,337,85,119,269,35,80,Non-NCAP
+155,Firozabad,Uttar Pradesh,365,84,111,324,30,89,NCAP
+156,Kolar,Karnataka,276,82,98,200,36,72,Non-NCAP
+157,Siliguri,West Bengal,361,82,100,265,28,73,Non-NCAP
+158,Ambala,Haryana,358,81,102,291,28,81,Non-NCAP
+159,Manglore,Karnataka,363,80,95,311,26,86,Non-NCAP
+160,Raipur,Chhattisgarh,363,80,107,288,29,79,NCAP
+161,Mangalore,Karnataka,303,79,84,255,28,84,Non-NCAP
+162,"Rajamahendravar
+am","Andhra
+Pradesh",362,79,117,251,32,69,NCAP
+163,Kochi,Kerala,353,78,95,303,27,86,Non-NCAP
+164,Palwal,Haryana,365,78,74,252,20,69,Non-NCAP
+165,Agra,Uttar Pradesh,365,78,87,309,24,85,NCAP
+166,Thrissur,Kerala,346,77,86,323,25,93,Non-NCAP
+167,Kollam,Kerala,361,77,44,344,12,95,Non-NCAP
+168,Hosur,Tamil Nadu,332,77,88,248,27,75,Non-NCAP
+169,Brajrajnagar,Odisha,311,75,76,230,24,74,Non-NCAP
+170,Dehradun,Uttarakhand,319,75,75,236,24,74,NCAP
+171,Belgaum,Karnataka,358,74,74,232,21,65,Non-NCAP
+172,Nashik,Maharashtra,365,74,83,277,23,76,NCAP
+173,Sagar,"Madhya
+Pradesh",363,73,84,269,23,74,NCAP
+174,Srinagar,"Jammu and
+Kashmir",321,73,55,232,17,72,NCAP
+175,Bilaspur,Chhattisgarh,353,72,67,288,19,82,Non-NCAP
+176,Vijayawada,"Andhra
+Pradesh",291,71,52,184,18,63,NCAP
+177,Amaravati,"Andhra
+Pradesh",358,70,88,234,25,65,NCAP
+178,Bangalore,Karnataka,365,69,31,311,8,85,NCAP
+179,Korba,Chhattisgarh,363,69,76,252,21,69,NCAP
+180,Kannur,Kerala,294,68,0,294,0,100,Non-NCAP
+181,Chennai,Tamil Nadu,365,68,44,296,12,81,NCAP
+182,Hassan,Karnataka,310,68,15,266,5,86,Non-NCAP
+183,Kohima,Nagaland,337,67,67,232,20,69,NCAP
+184,Shillong,Meghalaya,296,65,37,193,13,65,Non-NCAP
+185,Chikkaballapur,Karnataka,301,65,51,189,17,63,Non-NCAP
+186,Eloor,Kerala,282,64,0,252,0,89,Non-NCAP
+187,Chikkaballarpur,Karnataka,360,64,58,227,16,63,Non-NCAP
+188,Chhal,Chhattisgarh,347,64,51,248,15,71,Non-NCAP
+189,Palwal,Haryana,305,63,32,192,10,63,Non-NCAP
+190,Bhilai,Chhattisgarh,363,63,52,237,14,65,NCAP
+191,Kalaburagi,Karnataka,350,63,13,280,4,80,NCAP
+192,Varanasi,Uttar Pradesh,365,62,36,249,10,68,NCAP
+193,Davanagere,Karnataka,328,61,44,214,13,65,NCAP
+194,Haveri,Karnataka,347,61,51,199,15,57,Non-NCAP
+195,Tirupati,"Andhra
+Pradesh",365,61,28,256,8,70,Non-NCAP
+196,Yadgir,Karnataka,361,60,30,235,8,65,Non-NCAP
+197,Tirupur,Tamil Nadu,293,58,19,182,6,62,Non-NCAP
+198,Karauli,Rajasthan,301,58,22,182,7,60,Non-NCAP
+199,Chittoor,"Andhra
+Pradesh",365,58,43,208,12,57,NCAP
+200,Anantapur,"Andhra
+Pradesh",352,58,16,244,5,69,NCAP
+201,Ramanagara,Karnataka,363,57,12,235,3,65,Non-NCAP
+202,Bidar,Karnataka,288,55,37,164,13,57,Non-NCAP
+203,Ooty,Tamil Nadu,346,54,23,199,7,58,Non-NCAP
+204,Kadapa,"Andhra
+Pradesh",310,52,36,132,12,43,NCAP
+205,Puducherry,Puducherry,365,52,10,216,3,59,Non-NCAP
+206,Thoothukodi,Tamil Nadu,360,51,4,212,1,59,NCAP
+207,Kanchipuram,Tamil Nadu,310,51,14,168,5,54,Non-NCAP
+208,Mysuru,Karnataka,365,51,0,257,0,70,Non-NCAP
+209,Salem,Tamil Nadu,291,51,10,153,3,53,Non-NCAP
+210,Aizawl,Mizoram,302,50,41,126,14,42,Non-NCAP
