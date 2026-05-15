@@ -1,42 +1,104 @@
-🌫️ Air Quality Analytics Dashboard
+<div align="center">
 
-Power BI-based analytics dashboard designed to visualize AQI trends, pollutant levels, and city-wise air quality patterns across India.
+# 🌫️ Air Quality Analytics Dashboard
 
-✨ Features
-- AQI trend analysis
-- PM2.5 and PM10 monitoring
-- City-wise pollution comparison
-- Interactive KPI dashboards
-- Pollution pattern analysis
-- Environmental data visualization
+### Data-driven environmental intelligence dashboard engineered to analyze AQI trends, pollutant distribution, and urban air quality patterns across India.
 
-🛠️ Tech Stack
-- Power BI
-- CSV Datasets
-- Data Visualization
-- Dashboard Analytics
+</div>
 
-📊 Data Sources
-- NCAP Report
-- CPCB Air Quality Data
-- Swachh Bharat Mission
+---
 
-📁 Project Contents
-- Power BI Dashboard (.pbix)
-- Datasets (.csv)
-- Project Report
-- Presentation PPT
-- Dashboard Screenshots
-- Poster
+## ⚡ System Overview
 
-🎯 Objective
-To analyze air pollution trends and provide visual insights into air quality patterns across Indian cities.
+An interactive Power BI analytics solution designed to transform raw environmental datasets into meaningful visual intelligence for pollution monitoring and air quality assessment.
 
-📈 Key Insights
-- Comparison of pollution levels across cities
-- PM2.5 and PM10 trend visualization
-- AQI-based environmental analysis
-- Data-driven insights for pollution monitoring
+The dashboard provides analytical insights into AQI fluctuations, particulate matter concentration, and comparative pollution behavior across multiple Indian cities.
 
-🚀 Developed By
-Chirag Garg
+---
+
+## 📊 Analytical Modules
+
+```text
+◉ AQI Trend Analysis
+◉ PM2.5 & PM10 Monitoring
+◉ City-wise Pollution Comparison
+◉ Interactive KPI Visualization
+◉ Environmental Pattern Analytics
+◉ Data-driven Pollution Insights
+```
+
+---
+
+## 🧠 Dashboard Intelligence
+
+```text
+Data Processing → Cleaning + Transformation
+Visualization   → Interactive Power BI Dashboards
+Analysis Type   → Comparative & Trend-based Analytics
+```
+
+The system converts complex environmental datasets into structured visual analytics for simplified interpretation and monitoring.
+
+---
+
+## 🛠️ Technology Stack
+
+```text
+Power BI
+CSV Datasets
+Data Visualization
+Dashboard Analytics
+```
+
+---
+
+## 📁 Project Assets
+
+```text
+├── Power BI Dashboard (.pbix)
+├── CSV Datasets
+├── Project Report
+├── Presentation PPT
+├── Dashboard Screenshots
+└── Research Poster
+```
+
+---
+
+## 📡 Data Sources
+
+```text
+• NCAP Report
+• CPCB Air Quality Data
+• Swachh Bharat Mission
+```
+
+---
+
+## 🎯 Project Objective
+
+To develop an intelligent environmental analytics dashboard capable of visualizing air pollution trends and generating data-driven insights for air quality monitoring across Indian cities.
+
+---
+
+## 📈 Key Insights Generated
+
+```text
+• AQI variation across cities
+• PM2.5 & PM10 trend visualization
+• Comparative pollution analysis
+• Environmental KPI monitoring
+• Urban air quality intelligence
+```
+
+---
+
+<div align="center">
+
+## 👨‍💻 Developed By
+
+# Chirag Garg
+
+B.Tech CSE — Data Science
+
+</div>
